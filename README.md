@@ -13,3 +13,54 @@
  See the License for the specific language governing permissions and
  limitations under the License.
 -->
+
+# 🌐 Skyle
+
+![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)
+![Status](https://img.shields.io/badge/status-active-success)
+![Made with](https://img.shields.io/badge/Made%20with-React-61DAFB?logo=react)
+
+A responsive website for a marketing agency startup.
+
+---
+
+## 🚀 Live Demo
+
+🔗 [Click here to visit the website](https://skyle.netlify.app/)
+
+---
+
+## 🧩 Features
+
+- 🚀 Fully responsive and mobile-friendly  
+- 🎨 Clean, modern UI/UX using Tailwind CSS  
+- ⚡ Built with React and optimized for performance  
+- 🔒 Secure, scalable architecture  
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech           | Description            |
+|----------------|------------------------|
+| **ReactJS**    | Frontend Framework     |
+| **TailwindCSS**| Styling Framework      |
+| **Vite**       | Lightning-fast dev tool|
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/zealot-zew/Skyle.git
+
+# Navigate into the folder
+cd Skyle
+
+# Install dependencies
+npm install
+
+# Start the dev server
+npm run dev
+
